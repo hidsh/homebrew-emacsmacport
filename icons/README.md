@@ -24,3 +24,4 @@
 | `--with-sjrmanning-icon`                                     | ![sjrmanning-icon](sjrmanning-icon.png)                                                                         |
 | `--with-spacemacs-icon`                                      | ![spacemacs-icon](spacemacs-icon.png)                                                                           |
 | `--with-retro-sink-bw`                                       | ![retro-sink-bw](retro-sink-bw.png)                                                                             |
+| `--with-my-evil-icon`                                       | ![my-evil-icon](my-evil-icon.png)                                                                             |

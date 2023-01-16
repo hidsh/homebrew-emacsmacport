@@ -19,7 +19,8 @@ gnu-head-icon.png \
 modern-icon.png \
 sjrmanning-icon.png \
 spacemacs-icon.png \
-retro-sink-bw.png
+retro-sink-bw.png \
+my-evil-icon.png
 
 %.png: %.icns
 	sips --resampleWidth 100 -s format png $< --out $@
